@@ -1,4 +1,4 @@
-# Projeto Feriados do Brasil com JollDay
+# Projeto Feriados do Brasil com JollyDay
 
 Este é um projeto de exemplo que demonstra o uso da biblioteca Jollyday para lidar com feriados em Java.
 
